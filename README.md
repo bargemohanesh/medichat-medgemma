@@ -89,16 +89,16 @@ Safely refused:
 ---
 
 ## 🚀 How to Run Locally
-
 ### 1. Install dependencies
-```bash
+'''bash
 pip install -r requirements.txt
 2. Start FastAPI backend
 uvicorn app.main:app --host 0.0.0.0 --port 8000
 3. Start Gradio UI
 python ui_gradio.py
 4. Open in browser
-http://localhost:7860
+http://localhost:7860'''
+
 📌 Intended Use
 Medical education
 
@@ -121,4 +121,7 @@ AI/ML Engineer – Production LLMs & RAG Systems
 LinkedIn: https://www.linkedin.com/in/mohanesh-barge
 
 GitHub: https://github.com/bargemohanesh
+
+
+
 
