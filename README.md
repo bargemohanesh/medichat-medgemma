@@ -99,6 +99,8 @@ python ui_gradio.py
 ### 4. Open in browser
 http://localhost:7860
 
+---
+
 ## 📌 Intended Use
 Medical education
 
