@@ -112,9 +112,13 @@ Offline / edge healthcare environments
 
 This system is NOT intended for diagnosis or treatment decisions.
 
+---
+
 ## 🏆 Hackathon Context
 Built for The MedGemma Impact Challenge (Kaggle 2026)
 Uses models from Google Health AI Developer Foundations (HAI-DEF)
+
+---
 
 ## 👤 Author
 Mohanesh Dattatray Barge
