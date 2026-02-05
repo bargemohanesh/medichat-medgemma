@@ -90,16 +90,16 @@ Safely refused:
 
 ## 🚀 How to Run Locally
 ### 1. Install dependencies
-'''bash
+bash
 pip install -r requirements.txt
-2. Start FastAPI backend
+### 2. Start FastAPI backend
 uvicorn app.main:app --host 0.0.0.0 --port 8000
-3. Start Gradio UI
+### 3. Start Gradio UI
 python ui_gradio.py
-4. Open in browser
-http://localhost:7860'''
+### 4. Open in browser
+http://localhost:7860
 
-📌 Intended Use
+## 📌 Intended Use
 Medical education
 
 Health literacy tools
@@ -110,11 +110,11 @@ Offline / edge healthcare environments
 
 This system is NOT intended for diagnosis or treatment decisions.
 
-🏆 Hackathon Context
+## 🏆 Hackathon Context
 Built for The MedGemma Impact Challenge (Kaggle 2026)
 Uses models from Google Health AI Developer Foundations (HAI-DEF)
 
-👤 Author
+## 👤 Author
 Mohanesh Dattatray Barge
 AI/ML Engineer – Production LLMs & RAG Systems
 
