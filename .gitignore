@@ -1,0 +1,30 @@
+# Secrets
+.env
+*.pem
+*.key
+*.crt
+
+# Python
+__pycache__/
+*.pyc
+*.Pyo 
+*.pyd 
+.ipynb_checkpoints/
+ # OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+ 
+# Gradio runtime
+.gradio/
+
+# Local Data
+data/
+*.safetensors
+*.gguf
+*.Pt 
+*.chpt 
+
+# Logs
+*.log 

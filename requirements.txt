@@ -1,0 +1,12 @@
+# ML Libraries
+torch
+transformers
+accelerate
+#Gradio for UI
+gradio
+#Utilities
+python-dotenv
+huggingface-hub
+#Optional
+numpy
+pandas
